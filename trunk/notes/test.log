@@ -1,0 +1,5 @@
+ 14:22:04 - DEBUG - This is a debug message (root level).
+ 14:22:04 - INFO - This is a info message. (2nd level)
+ 14:22:04 - WARNING - This is a warning message (3rd level).
+ 14:22:04 - ERROR - This is an error message (4th level).
+ 14:22:04 - CRITICAL - This is a critical message (top level).
